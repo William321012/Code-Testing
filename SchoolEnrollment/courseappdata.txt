@@ -1,0 +1,19 @@
+1 4 Java None Hello
+2 4 Science None Hello
+3 4 Math None 7-8 Hello
+4 4 Gym None Hello
+5 4 SS None 1 Hello
+6 4 Math2 None 1 
+Student William Lin
+RegCourse 0 1
+Instructor Chen
+AssignInstructor 0 0
+TeachingAssistant Li
+AssignTeachingAssistant 0 0
+LabTechnician Tang
+AssignLabTechnician 5 0
+2 4 Java Intro none IDK
+
+UserInputs:
+1
+IDK 4 Java Intro none
